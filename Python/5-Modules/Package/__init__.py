@@ -1,0 +1,1 @@
+'''__init__.py is a specail type of file used in python to define packages and initialize their namespaces'''
